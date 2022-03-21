@@ -1,0 +1,15 @@
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\bin\Debug\net6.0\ProjektKnjizara.exe
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\bin\Debug\net6.0\ProjektKnjizara.deps.json
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\bin\Debug\net6.0\ProjektKnjizara.runtimeconfig.json
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\bin\Debug\net6.0\ProjektKnjizara.dll
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\bin\Debug\net6.0\ProjektKnjizara.pdb
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.csproj.AssemblyReference.cache
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.AssemblyInfoInputs.cache
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.AssemblyInfo.cs
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.csproj.CoreCompileInputs.cache
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.dll
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\refint\ProjektKnjizara.dll
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.pdb
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ProjektKnjizara.genruntimeconfig.cache
+C:\ProjektKnjizara\ProjektKnjizara\ProjektKnjizara\obj\Debug\net6.0\ref\ProjektKnjizara.dll
